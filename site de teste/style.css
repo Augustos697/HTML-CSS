@@ -1,0 +1,30 @@
+@charset "UTF-8";
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(#2BB3A3,#5E807C);
+}
+main{
+    background-color:rgb(223, 219, 219);
+    width: 800px;
+    border-radius: 40px;
+    padding: 10px;
+    text-align: justify;
+    margin: auto;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #B31DA9;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #E95696;
+}
+img{
+    margin:auto;
+    border-image: auto;
+    padding: 10px;
+    border-radius: 15px; 
+}
